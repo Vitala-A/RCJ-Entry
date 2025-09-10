@@ -1,0 +1,22 @@
+{
+    "editor.cursorBlinking": "blink",
+    "editor.cursorStyle": "line",
+    "window.autoDetectColorScheme": true,
+    "workbench.preferredLightColorTheme": "Tomorrow Night Blue",
+    "workbench.iconTheme": "vs-seti",
+    "window.closeWhenEmpty": false,
+    "workbench.preferredDarkColorTheme": "Abyss",
+    "workbench.sideBar.location": "left",
+    "workbench.statusBar.visible": true,
+    "workbench.tips.enabled": true,
+    "workbench.tree.enableStickyScroll": true,
+    "workbench.tree.renderIndentGuides": "onHover",
+    "breadcrumbs.showKeys": true,
+    "breadcrumbs.showNumbers": true,
+    "breadcrumbs.showObjects": true,
+    "workbench.activityBar.location": "top",
+    "breadcrumbs.enabled": true,
+    "breadcrumbs.icons": true,
+    "breadcrumbs.showFiles": true,
+    "editor.bracketPairColorization.independentColorPoolPerBracketType": false
+}
